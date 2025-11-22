@@ -53,3 +53,5 @@ To manually test that the game is working correctly:
 ## Screenshots
 ![Quiz Gameplay](./game_screenshot.png)
 ![Quiz Gameplay](./game_screenshot1.png)
+## Recordings
+![Quiz Game Gameplay Demo](./recordings/quiz_demo.gif)
